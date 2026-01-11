@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Siddhant 👋
 
-<!--
-**wakeups1dd/wakeups1dd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend-focused Software Developer passionate about building **scalable, accessible, and high-performance web applications**.  
+I enjoy working across the stack, building developer tools, and learning how systems work under the hood.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 B.Tech in **Artificial Intelligence & Data Science**  
+- 🧠 Strong interest in **system design, developer tooling, and automation**
+- 🏆 Hackathon winner & consistent project builder
+- 🧩 Love solving real-world problems with clean, maintainable code
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+- React, Next.js
+- TypeScript
+- Tailwind CSS
+
+**Backend**
+- Node.js
+- PostgreSQL
+- REST APIs
+
+**Tools & Practices**
+- Git & GitHub
+- Docker
+- CI/CD Pipelines
+- Performance Optimization
+- Accessibility
+- Clean Architecture
