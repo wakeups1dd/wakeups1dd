@@ -1,8 +1,5 @@
 # Hi, I'm Siddhant 👋
 
-Frontend-focused Software Developer passionate about building **scalable, accessible, and high-performance web applications**.  
-I enjoy working across the stack, building developer tools, and learning how systems work under the hood.
-
 ---
 
 ## 🚀 About Me
