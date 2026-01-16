@@ -27,6 +27,7 @@
 - Git & GitHub
 - Docker
 - CI/CD Pipelines
+- n8n
 - Performance Optimization
 - Accessibility
 - Clean Architecture
