@@ -1,33 +1,21 @@
-# Hi, I'm Siddhant 👋
+<h1 align="center">Hey 👋, I'm Siddhant</h1>
+<h3 align="center">Builder • AI & Data Science • Full-Stack Developer</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=wakeups1dd&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/wakeups1dd">
+    <img src="https://img.shields.io/github/followers/wakeups1dd?label=Followers&style=social" />
+  </a>
+</p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 B.Tech in **Artificial Intelligence & Data Science**  
-- 🧠 Strong interest in **system design, developer tooling, and automation**
-- 🏆 Hackathon winner & consistent project builder
-- 🧩 Love solving real-world problems with clean, maintainable code
-
----
-
-## 🛠️ Tech Stack
-
-**Frontend**
-- React, Next.js
-- TypeScript
-- Tailwind CSS
-
-**Backend**
-- Node.js
-- PostgreSQL
-- REST APIs
-
-**Tools & Practices**
-- Git & GitHub
-- Docker
-- CI/CD Pipelines
-- n8n
-- Performance Optimization
-- Accessibility
-- Clean Architecture
+- 🎓 **B.Tech in AI & Data Science**
+- 🚀 Love building **production-grade products**, not just demos
+- 🧠 Interested in **AI, Web3, Open Source, System Design**
+- 🛠️ Strong focus on **clea**
