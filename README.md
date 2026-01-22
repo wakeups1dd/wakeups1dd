@@ -1,30 +1,84 @@
-# Hi 👋, I'm Siddhant
+<!-- Header Section -->
+<h1 align="center">Hi, I'm Siddhant 👋</h1>
 
-### AI & Data Science • Full-Stack Developer • Builder
+<p align="center">
+  <strong>B.Tech in AI & Data Science | Developer | Problem Solver</strong>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-username/your-username/main/wave.gif" width="30px" alt="wave" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech in **Artificial Intelligence & Data Science**
-- 🧠 Interested in **AI, Web3, SaaS, System Design**
-- 🛠️ I build **production-grade apps**, not just demos
-- 🚀 Hackathons • Open Source • Real-world products
-
----
-
-## 🏷️ Badges
-
-![AI](https://img.shields.io/badge/AI-Developer-blue)
-![Full Stack](https://img.shields.io/badge/Full--Stack-Developer-green)
-![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-orange)
-![Students](https://img.shields.io/badge/Always-Learning-purple)
+- 🎓 B.Tech in Artificial Intelligence & Data Science  
+- 💡 Passionate about building scalable, clean, and impactful software  
+- 🏆 Hackathon winner and consistent project builder  
+- 🔄 Always learning new technologies and improving my skills
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs)
-![TypeScript](https://img.shields.i)
+- **React**, **Next.js**, **TypeScript**, **Tailwind CSS**
+
+### Backend
+- **Node.js**, **Express.js**, **PostgreSQL**, **REST APIs**
+
+### Tools & Others
+- Git & GitHub  
+- Docker  
+- CI/CD Pipelines  
+- Performance Optimization  
+- Clean Architecture
+
+---
+
+## 📌 Featured Projects
+
+Here are some of my highlights with live links and short descriptions:
+
+1. **open-source-navigator**  
+   A tool to discover and explore open-source projects.
+
+2. **sid-vcs**  
+   My own version control prototype.
+
+3. **lensify**  
+   AI-powered document search engine.
+
+4. **Spendr**  
+   A personal finance web app.
+
+> ⚡ Tip: Add live links to demos (if available) and screenshots to make this section pop!
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wakeups1dd&show_icons=true&theme=radical" alt="Siddhant's GitHub Stats" />
+</p>
+
+---
+
+## 📫 Contact Me
+
+Feel free to connect with me through:
+
+<p align="center">
+  <a href="mailtosiddhantgangawane335@gmail.com">✉️ Email</a> •
+  <a href="https://www.linkedin.com/in/siddhant-gangawane-7b8766375/">LinkedIn</a> •
+  <a href="https://siddhant-gangawane-portfolio-nine.vercel.app/">Portfolio</a>
+</p>
+
+---
+
+## 🚀 Let’s Build Together
+
+I’m open to interesting projects and collaborations. Let’s create something amazing! 💪
+
+
