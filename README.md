@@ -1,21 +1,30 @@
-<h1 align="center">Hey 👋, I'm Siddhant</h1>
-<h3 align="center">Builder • AI & Data Science • Full-Stack Developer</h3>
+# Hi 👋, I'm Siddhant
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wakeups1dd&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/wakeups1dd">
-    <img src="https://img.shields.io/github/followers/wakeups1dd?label=Followers&style=social" />
-  </a>
-</p>
+### AI & Data Science • Full-Stack Developer • Builder
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 **B.Tech in AI & Data Science**
-- 🚀 Love building **production-grade products**, not just demos
-- 🧠 Interested in **AI, Web3, Open Source, System Design**
-- 🛠️ Strong focus on **clea**
+- 🎓 B.Tech in **Artificial Intelligence & Data Science**
+- 🧠 Interested in **AI, Web3, SaaS, System Design**
+- 🛠️ I build **production-grade apps**, not just demos
+- 🚀 Hackathons • Open Source • Real-world products
+
+---
+
+## 🏷️ Badges
+
+![AI](https://img.shields.io/badge/AI-Developer-blue)
+![Full Stack](https://img.shields.io/badge/Full--Stack-Developer-green)
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-orange)
+![Students](https://img.shields.io/badge/Always-Learning-purple)
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs)
+![TypeScript](https://img.shields.i)
