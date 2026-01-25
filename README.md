@@ -53,16 +53,6 @@ Here are some of my highlights with live links and short descriptions:
 4. **Spendr**  
    A personal finance web app.
 
-> ⚡ Tip: Add live links to demos (if available) and screenshots to make this section pop!
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wakeups1dd&show_icons=true&theme=radical" alt="Siddhant's GitHub Stats" />
-</p>
-
 ---
 
 ## 📫 Contact Me
